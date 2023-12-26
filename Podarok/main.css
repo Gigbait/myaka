@@ -3,7 +3,7 @@
     background: fixed;
     flex-direction: row;
     height: 100px;
-    width: 2000px;
+    width: 3000px;
     margin: -8px;
 }
 .header_text
@@ -160,15 +160,15 @@ html
 
 
 
-.header_bg
+.footer_bg
 {
     background: fixed;
     flex-direction: row;
     height: 100px;
-    width: 2000px;
+    width: 3000px;
     margin: -8px;
 }
-.header_text
+.footer_text
 {
     text-align: center; 
     margin-top: -70px;
