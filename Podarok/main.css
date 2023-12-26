@@ -1,9 +1,8 @@
 .header_bg
 {
     background: fixed;
-    flex-direction: row;
     height: 100px;
-    width: 3000px;
+    width: 2470px;
     margin: -8px;
 }
 .header_text
@@ -163,9 +162,8 @@ html
 .footer_bg
 {
     background: fixed;
-    flex-direction: row;
     height: 100px;
-    width: 3000px;
+    width: 2470px;
     margin: -8px;
 }
 .footer_text
