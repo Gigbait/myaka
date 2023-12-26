@@ -7,7 +7,7 @@
 }
 .header_text
 {
-    text-align: center; 
+    padding-left: 1040px;
     margin-top: -70px;
 }
 html
@@ -17,14 +17,6 @@ html
     background-repeat: no-repeat;
     background-size: cover;
 }
-
-
-
-
-
-
-
-
 
 
 
@@ -145,20 +137,6 @@ html
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .footer_bg
 {
     background: fixed;
@@ -168,6 +146,6 @@ html
 }
 .footer_text
 {
-    text-align: center; 
+    padding-left: 1110px;
     margin-top: -70px;
 }
