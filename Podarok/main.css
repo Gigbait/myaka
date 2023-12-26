@@ -1,0 +1,175 @@
+.header_bg
+{
+    background: fixed;
+    flex-direction: row;
+    height: 100px;
+    width: 100.7%;
+    margin: -8px;
+}
+.header_text
+{
+    text-align: center; 
+    margin-top: -70px;
+}
+html
+{
+    background-image: url(bg/body.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+.red
+{
+    margin-top: 50px;
+    padding-left: 200px;
+    height: 1828px;
+}
+.purple
+{
+    margin-top: -2000px;
+    padding-left: 253px;
+    height: 1728px;
+}
+.blue
+{
+    margin-top: -2000px;
+    padding-left: 305px;
+    height: 1628px;
+}
+.green
+{
+    margin-top: -2000px;
+    padding-left: 360px;
+    height: 1528px;
+}
+.yellow
+{
+    margin-top: -2000px;
+    padding-left: 410px;
+    height: 1428px;
+}
+.pink
+{
+    margin-top: -2000px;
+    padding-left: 465px;
+    height: 1328px;
+}
+.orange
+{
+    margin-top: -2000px;
+    padding-left: 520px;
+    height: 1228px;
+}
+.lime
+{
+    margin-top: -2000px;
+    padding-left: 575px;
+    height: 1128px;
+}
+.brown
+{
+    margin-top: -2000px;
+    padding-left: 630px;
+    height: 1028px;
+}
+.light-purple
+{
+    margin-top: -2000px;
+    padding-left: 685px;
+    height: 928px;
+}
+.skin
+{
+    margin-top: -2000px;
+    padding-left: 740px;
+    height: 828px;
+}
+.light-purple-blod
+{
+    margin-top: -2000px;
+    padding-left: 800px;
+    height: 728px;
+}
+.light-gray
+{
+    margin-top: -2000px;
+    padding-left: 855px;
+    height: 628px; 
+}
+.light-brown
+{
+    margin-top: -2000px;
+    padding-left: 910px;
+    height: 528px; 
+}
+.dark-purple
+{
+    margin-top: -2000px;
+    padding-left: 965px;
+    height: 428px; 
+}
+.pantene
+{
+    margin-top: -2000px;
+    padding-left: 1021px;
+    height: 328px;
+}
+.lavanda
+{
+    margin-top: -2000px;
+    padding-left: 1077px;
+    height: 228px;
+}
+.kall
+{
+    margin-top: -2000px;
+    padding-left: 1132px;
+    height: 128px;
+}
+.end-red
+{
+    margin-top: -2000px;
+    margin-bottom: 50px;
+    padding-left: 1175px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header_bg
+{
+    background: fixed;
+    flex-direction: row;
+    height: 100px;
+    width: 100.7%;
+    margin: -8px;
+}
+.header_text
+{
+    text-align: center; 
+    margin-top: -70px;
+}
